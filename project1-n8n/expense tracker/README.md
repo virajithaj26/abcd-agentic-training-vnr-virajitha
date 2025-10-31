@@ -10,11 +10,11 @@ Users can log expenses via **text messages or voice notes**, and the system **re
 
 | Item | Description |
 |------|-------------|
-| **Workflow file** | `Expense Tracking Agent.json` |
-| **Snapshot** | `Workflow Snapshot.png` |
-| **Demo reply** | `Telegram Reply.png` |
-| **Sheets** | Expense Log Sheet (Google Sheets) |
-| **Video** | `Workflow Execution.mp4` |
+| **Workflow file** | `expense tracker.json` |
+| **Snapshot** | `workflow.png` |
+| **Demo reply** | `telegram reply.png` |
+| **Video for text input** | `execution text.mp4` |
+| **Video for audio input** | `execution audio.mp4` |
 
 ---
 
